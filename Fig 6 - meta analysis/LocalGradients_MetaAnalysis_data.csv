@@ -1,0 +1,28 @@
+###Data were taken directly from articles or extracted using WebPlotDigitizer,,,,,,,,,,
+####,,,,,,,,,,
+,Study,Organism,Ecosystem type,Response,Effect size,Comparison,Treatment,Treatment_lump,ID number,Notes
+1,Estaque et al 2023 Global Change Biology 1-4,Soft coral,Coral,Percent necrotic tissue,2.84,Shallow vs Deep,Depth,Depth,7,NA
+2,Gambi et al 2010 Biologia Marina Mediterranea 17(1):126-127,Eunicella cavolini,Coral,Number of dead colonies,4.02,Shallow vs Deep,Depth,Depth,8,NA
+3,Giraldo-Ospina et al 2020 Proceedings of the Royal Soceity B 287(1928):20200709,Ecklonia radiata,Seaweed,Percent kelp loss,5.67,Shallow vs Deep,Depth,Depth,9,25 m excluded; average across Rottnest and Jurien Bay
+4,Hoegh-Guldberg & Salvat 1995 Marine Ecology Progress Series 121:181-190,Pocillopora sp,Coral,Percent bleaching,0.84,Shallow vs Deep,Depth,Depth,10,NA
+5,McField 1999 Bulletin of Marine Science 64(1):155-172,Coral,Coral,Percentage bleaching,1.05,Shallow vs Deep (BR vs FR),Depth,Depth,11,Averaged across all coral taxa
+6,Monroe 2018 Plos one 13(4):e0195814,Coral,Coral,Change in percent cover,1.03,Shallow vs Deep (BR vs FR),Depth,Depth,12,NA
+7,Montefalcone et al 2020 Frontiers in Marine Science 7:587,Coral,Coral,Percentage coral mortality,2.94,Shallow vs Deep,Depth,Depth,13,NA
+8,Whalen et al 2023 Ecology 104:e4027,Intertidal seaweeds,Seaweed,Loss of seaweed cover,2.89,Tidal elevation,Depth,Depth,14,NA
+9,Zhao et al. 2023,Coral,Coral,Percent of cover bleaching,7.29,Shallow vs. Deep,Depth,Depth,15,Data are in abstract comparing overall shallow vs deep
+10,Starko et al. 2023,Coral,Coral,Mortality of Porites colonies,3.25,Disturbed vs Pristine,Human disturbance,Human disturbance,16,NA
+11,Baum et al. 2023,Coral,Coral,Mortality of tagged corals,4.54,Disturbed vs Pristine,Human disturbance,Human disturbance,17,NA
+12,Maucieri et al. 2023,Coral,Coral,Percentage of diversity lost,1.35,Disturbed vs Pristine,Human disturbance,Human disturbance,18,NA
+13,Claar et al. 2020,Coral,Coral,Number of dead colonies,7.26,Disturbed vs Pristine,Human disturbance,Human disturbance,19,2 out of 35 died at VL sites; 17 out of 41 at VH (both species combined)
+14,Darling et al. 2010,Coral,Coral,Proportion of coral cover lost,0.62,Disturbed vs Pristine,Human disturbance,Human disturbance,20,NA
+15,Berkelmans & Oliver 1999 Coral Reefs 18:55-60,Coral,Coral,Bleaching %,3.93,Inshore vs Offshore,Shore distance,Other,21,NA
+16,Iluz et al 2008 Research Letters in Ecology 281038:1-4,Coral,Coral,Percentage lost,7,High vs low light,Light,Other,22,Grouped all taxa
+17,Raymundo et al. 2017,Coral,Coral,Percent of colonies bleached or dead,1.89,Low vs high flow,Flow,Other,23,NA
+18,Donovan et al. 2020,Coral,Coral,Percent bleaching,1.11,High vs low nutrients,Nutrients,Other,24,NA
+19,Furby et al. 2023,Coral,Coral,NA,1.58,Inner vs outer,Shore distance,Other,25,NA
+20,Filbee-Dexter et al 2020 Scientific Reports 10(1):13388,Saccharina latissima,Seaweed,Mortality of tagged kelp,3.56,Warm vs cold,Temperature,Temperature,1,NA
+21,Starko et al 2022 Ecological Applications 32:e2673,Canopy kelp (Macrocystis and Nereocystis),Seaweed,Percentage of that lost kelp,11.1,Warm vs Cool,Temperature,Temperature,2,NA
+22,Verdura et al 2021 Journal of Ecology 109:1758-1773,Ericaria from Med,Seaweed,Loss of adult density,56.9,Warm vs Cool,Temperature,Temperature,3,NA
+23,Starko et al. 2024,Kelp,Seaweed,Loss of kelp from shoreline segments (%),4.625,Warm vs Cool,Temperature,Temperature,4,NA
+24,Marin Jarrin et al 2022,Eelgrass,Eelgrass,NA,262.7,NA,Temperature,Temperature,5,NA
+25,Morikawa & Palumbi,Pocillopora damicornis,Coral,Percentage bleaching,0.337,Warm vs Cool,Temperature,Temperature,6,NA
