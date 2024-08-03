@@ -7,9 +7,9 @@ This repository contains data for two figures from Starko et al. (2024). The fil
   - "LocalGradients_MetaAnalysis_data.xlsx" - this file contains the data extracted from the 25 case studies. Metadata (including field descriptions) are given in the "metadata" sheet
 
 "Fig 7 - kelp case studies" folder
-  - "BarkleySound_KelpSites.xlsx" - this file contains the data on kelp presence-absence in Barkley Sound before and after the 2014-2016 MHW. Metadata (including field descriptions) are given in the "metadata" sheet
+  - "BarkleySound_KelpSites.xlsx" - this file contains the data on kelp presence-absence in Barkley Sound, British Columbia before and after the 2014-2016 MHW. Metadata (including field descriptions) are given in the "metadata" sheet. Data are from Starko et al. (2022) Ecological Applications.
     
-  - "LoggerData_BarkleySound.xlsx" - this file contains summaries of in situ temperature data for sites across Barkley Sound. Metadata (including field descriptions) are given in the "metadata" sheet
+  - "LoggerData_BarkleySound.xlsx" - this file contains summaries of in situ temperature data for sites across Barkley Sound. Metadata (including field descriptions) are given in the "metadata" sheet. Starko et al. (2022) Ecological Applications.
     
   - "NorwaySiteLocations.xlsx" - this file contains the data on kelp survival in Norway from Filbee-Dexter et al. 2020 Scientific Reports. Metadata (including field descriptions) are given in the "metadata" sheet
 
