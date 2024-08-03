@@ -16,4 +16,3 @@ This repository contains data for two figures from Starko et al. (2024). The fil
 Raw temperature data and code used to generate in situ temperatures for the Barkley Sound case study in Fig 7 can be found at:
 https://zenodo.org/doi/10.5281/zenodo.6397742
 
-Each of the files described above is also provided in CSV format
